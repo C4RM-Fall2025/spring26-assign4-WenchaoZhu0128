@@ -12,4 +12,4 @@ def getBondPrice_E(face, couponRate, yc):
             cf = cf + face
         pvcf = pvm * cf
         pvcfsum = pvcfsum + pvcf
-    return(pcvfsum)
+    return(pvcfsum)
